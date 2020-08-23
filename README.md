@@ -1,1 +1,1 @@
-# ML-AndrewNg-exercise-solutions
+# Machine-Learning-AndrewNg-exercise-solutions
